@@ -1,0 +1,18 @@
+{
+  "name": "CODESTAY",
+  "short_name": "CODESTAY",
+  "description": "Builder AI per siti, bot, app e progetti digitali",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#7c3aed",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable any"
+    }
+  ]
+}
